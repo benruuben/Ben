@@ -1,0 +1,173 @@
+body {
+    background-color: aliceblue;
+    color: black;
+    background-image: url("http://img06.deviantart.net/6aa8/i/2009/133/8/4/green_painted_distressed_wood_by_beckas.jpg");
+    background-repeat: repeat;
+    display: table;
+    background-position: center;
+    background-clip: border-box;
+    background-origin: border-box;
+    background-size: auto;
+
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+h1 {
+    color: black;
+    text-align: center;
+    text-decoration: double;
+    text-shadow: 10px 7px 3px #888888;
+    font-size: 75px;
+}
+
+p {
+    background-attachment: fixed;
+    text-align: center;
+    border: 2px solid purple;
+    border-radius: 2em;
+    box-shadow: 10px 10px 5px #888888;
+    float: none;
+    margin: 0 0 10px 10px;
+    height: 50px;
+    width: 1000px;
+    padding: 15px;
+    position: static;
+    vertical-align: baseline;
+    line-height: 170%;
+    white-space: normal;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: normal;
+    min-width: 150px;
+    max-width: none;
+    border-bottom: thin;
+    border-bottom-color: aliceblue;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-style: dashed;
+    border-bottom-width: thin;
+    border-color: aqua;
+    border-image: 10px;
+    border-image-outset: 10px;
+    border-image-repeat: repeat;
+    border-image-slice: fill;
+    border-image-source: none;
+    border-image-width: 10px;
+    border-left: none;
+    border-left-color: inherit;
+    border-left-style: none;
+    border-left-width: inherit;
+    border-right: none;
+    border-right-color: inherit;
+    border-right-style: none;
+    border-right-width: inherit;
+    border-style: solid;
+    border-top: inherit;
+    border-top-color: inherit;
+    border-top-left-radius: 111px;
+    border-top-right-radius: 11px;
+    border-top-style: inherit;
+    border-top-width: 10px;
+    border-width: inherit;
+    box-decoration-break: clone;
+    box-shadow: px;
+    margin: 5cm;
+
+    perspective: 500px;
+    perspective-origin: 10% 10%;
+    transform: rotate(7deg);
+    transform-origin: 20% 40%;
+    transform-style: preserve-3d;
+    transition: width 2s;
+    transition-property: width;
+    transition-duration: 5s;
+    transition-timing-function: linear;
+    transition-delay: 2s;
+}
+h5 {
+    box-sizing: inherit;
+    content: normal;
+    cursor: pointer;
+    ime-mode: normal;
+    nav-down: auto;
+    nav-index: auto;
+    nav-left: auto;
+    nav-right: auto;
+    nav-up: auto;
+    outline: auto;
+    outline-color: black;
+    outline-offset: 22px;
+    outline-style: none;
+    outline-width: medium;
+    resize: none;
+    text-overflow: clip;
+
+}
+blockquote {
+    break-after: auto;
+    break-before: auto;
+    break-inside: auto;
+    column-count: 3;
+    column-fill: auto;
+    column-gap: 40px;
+    column-rule: 4px;
+    column-rule-color: #ff00ff;
+    column-rule-style: outset;
+    column-rule-width: 20px;
+    column-span: all;
+    column-width: 100px;
+    columns: 20px;
+    widows: 3;
+}
+h4 {
+    orphans: 3;
+    page-break-after: always;
+    page-break-before: always;
+    page-break-inside: auto;
+    marks: none;
+    quotes: "«" "»";
+    filter: opacity(25%);
+    image-rendering: auto;
+    image-resolution: from-image;
+    object-fit: fill;
+    object-position: inherit;
+    mask: none;
+    mask-type: unset;
+
+}
+p {
+
+
+    marquee-direction: none;
+    marquee-play-count: none;
+    marquee-speed: fast;
+    marquee-style: scroll;
+
+
+}
+
+ul {
+    list-style-type: circle;
+
+
+}
+
+a {
+     cursor: pointer;
+}
+table, th, td {
+        border: 2px solid purple;
+        border-collapse: collapse;
+    }
+    th, td
+    {
+        padding: 5px;  }
+    th {
+        text-align: center;
+    }
+
+
+
+
