@@ -71,7 +71,6 @@
 </blockquote>
 <button type="button" onclick="alert('Hello world!')">Click Me!</button>
 <canvas id="myCanvas">Your browser does not support the HTML5 canvas tag.</canvas>
-
 <cite></cite>
 <code></code>
 <col></col>
