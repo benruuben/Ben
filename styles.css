@@ -49,8 +49,8 @@ p {
     border-bottom-style: dashed;
     border-bottom-width: thin;
     border-color: aqua;
-    border-image: 10px;
-    border-image-outset: 10px;
+    border-image: auto;
+    border-image-outset: 22px;
     border-image-repeat: repeat;
     border-image-slice: fill;
     border-image-source: none;
@@ -72,7 +72,7 @@ p {
     border-top-width: 10px;
     border-width: inherit;
     box-decoration-break: clone;
-    box-shadow: px;
+    box-shadow: 20px;
     margin: 5cm;
 
     perspective: 500px;
@@ -86,7 +86,7 @@ p {
     transition-timing-function: linear;
     transition-delay: 2s;
 }
-h5 {
+h2 {
     box-sizing: inherit;
     content: normal;
     cursor: pointer;
@@ -121,7 +121,7 @@ blockquote {
     columns: 20px;
     widows: 3;
 }
-h4 {
+h2 {
     orphans: 3;
     page-break-after: always;
     page-break-before: always;
@@ -140,8 +140,8 @@ h4 {
 p {
 
 
-    marquee-direction: none;
-    marquee-play-count: none;
+    marquee-direction: forward;
+    marquee-play-count:;
     marquee-speed: fast;
     marquee-style: scroll;
 
